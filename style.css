@@ -110,3 +110,18 @@ font-weight:boldi;
   transition: 1s all; 
 cursor: painter; 
 } 
+
+.enviar:hover{ 
+background: darkorange; 
+transform: scale(1.2);
+} 
+
+table{ 
+margin:20px 0 40px; 
+} 
+
+thead{ 
+background: #555555; 
+clor:white;
+  font-weight: bold; 
+}
